@@ -1,4 +1,4 @@
-# Personel-Project---To-Do-List
+# To-Do-List---Personel-Project
 This project is a personal project of mine where I have created a TO DO LIST which is implemented using the Queue ADT as a Linked List. It contains the common operations performed by a simple queue ADT such as enqueue, and dequeu, and get length. Each file contains an operation which is explained through the comments.
 
 Purpose:
